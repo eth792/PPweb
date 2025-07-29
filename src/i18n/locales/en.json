@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Home",
+    "plugins": "Plugins",
+    "about": "About"
+  },
+  "common": {
+    "search": "Search",
+    "searchPlaceholder": "Search plugins...",
+    "privacyPolicy": "Privacy Policy",
+    "language": "Language",
+    "chinese": "中文",
+    "english": "English"
+  },
+  "home": {
+    "title": "Chrome Extension Privacy Policies",
+    "subtitle": "View privacy policies and data usage information for our Chrome extensions",
+    "pluginCount": "{count} plugins"
+  },
+  "plugin": {
+    "backToHome": "Back to Home",
+    "lastUpdated": "Last Updated",
+    "tableOfContents": "Table of Contents"
+  },
+  "footer": {
+    "copyright": "© 2024 PPweb. All rights reserved."
+  }
+}

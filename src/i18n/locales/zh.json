@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "首页",
+    "plugins": "插件",
+    "about": "关于"
+  },
+  "common": {
+    "search": "搜索",
+    "searchPlaceholder": "搜索插件...",
+    "privacyPolicy": "隐私政策",
+    "language": "语言",
+    "chinese": "中文",
+    "english": "English"
+  },
+  "home": {
+    "title": "Chrome 插件隐私政策",
+    "subtitle": "查看我们 Chrome 插件的隐私政策和数据使用说明",
+    "pluginCount": "{count} 个插件"
+  },
+  "plugin": {
+    "backToHome": "返回首页",
+    "lastUpdated": "最后更新",
+    "tableOfContents": "目录"
+  },
+  "footer": {
+    "copyright": "© 2024 PPweb. 保留所有权利。"
+  }
+}
