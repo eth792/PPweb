@@ -16,8 +16,6 @@ export function MarkdownViewer({ content }: MarkdownViewerProps) {
       marked.setOptions({
         gfm: true, // GitHub Flavored Markdown
         breaks: true, // 换行转换为 <br>
-        headerIds: true, // 为标题生成 ID
-        mangle: false, // 不混淆邮箱地址
       });
 
       // 自定义渲染器
